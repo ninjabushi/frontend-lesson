@@ -25,12 +25,13 @@ img{
 }	
 section{
 /*	background: darkblue;*/
-	color: yellowgreen;
+	color: black;
 	text-align: center;
 }
 footer{
-	background: green;
-	padding: 100px;
+	background: sandybrown;
+	padding: 30px;
+	border: 10px solid black;
 }
 footer a {
 	color: yellow;
@@ -40,14 +41,21 @@ footer a {
 	padding: 100px;
 }
 h1 {
-	padding: 100px;
+	
 }
 .article-img {
 	width: 130%;
 }
+.article-img{
+	
+}
 h1 {
-	margin-left: 200px;
+	
 }
 article-text{
 	margin-left: 200px;
+}
+.footer-img{
+	width: 20%;
+
 }
